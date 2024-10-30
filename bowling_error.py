@@ -1,0 +1,2 @@
+class BowlingError(Exception):
+    pass
